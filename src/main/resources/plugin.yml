@@ -1,0 +1,6 @@
+name: PluginName
+version: 0.0.1
+author: sven@wollinger.email
+main: com.mischiefsmp.pluginname.PluginMain
+api-version: 1.18
+softdepend: ["MischiefCore"]
